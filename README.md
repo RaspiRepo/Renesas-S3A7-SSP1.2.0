@@ -1,4 +1,4 @@
-  # Renesas-S3A7-SSP1.2.0
+# Renesas-S3A7-SSP1.2.0
 
 In this tutorial, you will learn how to update latest Board Support Package(BSP) version 1.2.0 for Renesas S3A7 Fast Prototyping board.
 This allows develop Internet of things application using Renesas Synergy Software Platform (SSP)1.2.0 or above driver/frameworks. 
@@ -24,19 +24,27 @@ To install E2Studio follow this book Chapter 4
 https://www.renesas.com/en-us/products/synergy/book.html
 
 1. Import BSP1.2.0 to E2Studio
- a. Open E2Studio in workspace.
- b. File->Import-> Select "CMSIS Pack".  OR 
+
+ a. Download Board support pacakge from here
+
+https://github.com/RaspiRepo/Renesas-S3A7-SSP1.2.0/blob/master/Renesas.S3_IOT_BOARD.1.2.0-b.1.1.pack
+ 
+ b. Open E2Studio in workspace.
+ c. File->Import-> Select "CMSIS Pack".  OR 
  
 Other option directly copy userpack into "C:\Renesas\e2_studio\internal\projectgen\arm\Packs"
 
 2. Download Blinky Project from this github.
+
+https://github.com/RaspiRepo/Renesas-S3A7-SSP1.2.0/blob/master/2017-06-13_s3a7_Blinky_ssp1_2_v0.zip
+
 3. Import project into Workspace.
 4. Build and install Blinky application into S3A7 board. 
 
 # Summary 
 All 4 LED's blinks.
 
-For detailed tutorial with screen shot.. Go Here
+For addiotional help check out screen shots.
 
 
 
