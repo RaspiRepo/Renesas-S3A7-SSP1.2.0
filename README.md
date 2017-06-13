@@ -1,8 +1,10 @@
 # Renesas-S3A7-SSP1.2.0
 
-In this tutorial, you will learn to upgrade/install latest Board Support Package(BSP) version 1.2.0 for Renesas S3A7 Fast Prototyping board.
+In this tutorial, you will learn to upgrade/install latest Board Support Package(BSP) version 1.2.0 for Renesas S3A7 Fast Prototyping board. 
 
 This allows developers to create application like Internet of things (IoT) using Renesas Synergy Software Platform (SSP)1.2.0 or above driver/frameworks. 
+
+Included Blinky Demo Project which can be tested easily on the board OR follow screen shots to build your own Blinky Project. Renesas SSP create complete source.
 
 # Prerequisites:
 
@@ -44,7 +46,7 @@ https://github.com/RaspiRepo/Renesas-S3A7-SSP1.2.0/blob/master/2017-06-13_s3a7_B
 4. Build and install Blinky application into S3A7 board. 
 
 # Summary 
-All 4 LED's blinks.
+All 4 LED's blinks.  E2Studio create all required source code to blink onboard LEDs (No coding required).
 
 For addiotional help check out screen shots.
 
