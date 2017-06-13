@@ -1,9 +1,11 @@
 # Renesas-S3A7-SSP1.2.0
 
-In this tutorial, you will learn how to update latest Board Support Package(BSP) version 1.2.0 for Renesas S3A7 Fast Prototyping board.
-This allows develop Internet of things application using Renesas Synergy Software Platform (SSP)1.2.0 or above driver/frameworks. 
+In this tutorial, you will learn to upgrade/install latest Board Support Package(BSP) version 1.2.0 for Renesas S3A7 Fast Prototyping board.
+
+This allows developers to create application like Internet of things (IoT) using Renesas Synergy Software Platform (SSP)1.2.0 or above driver/frameworks. 
 
 # Prerequisites:
+
 1) S3A7 IoT Fast Prototyping Kit including the J-Link debugger. Product details
 
 https://www.renesas.com/en-us/products/software-tools/boards-and-kits/renesas-synergy-kits/renesas-synergy-s3a7-prototyping-kit.html
@@ -46,6 +48,8 @@ All 4 LED's blinks.
 
 For addiotional help check out screen shots.
 
+Many other tutorials can be found here
 
+http://learn.iotcommunity.io/
 
 
