@@ -53,6 +53,3 @@ For addiotional help check out screen shots.
 Many other tutorials can be found here
 
 http://learn.iotcommunity.io/
-
-https://github.com/RaspiRepo/Renesas-S3A7-SSP1.2.0/blob/master/screen3.png
-
